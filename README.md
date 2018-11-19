@@ -38,4 +38,4 @@ On Simplicial Complexes:
 SC](https://www.math.uci.edu/~mathcircle/materials/MCsimplex.pdf)
 [Abstract SC](https://pdfs.semanticscholar.org/5243/f42d97f3487a3484d8e56680ceee7a36c081.pdf)
 
-
+[Intro starting from nerve](http://web.cse.ohio-state.edu/~wang.1016/courses/788/Lecs/lec6-marc.pdf)
